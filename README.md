@@ -6,13 +6,4 @@ This project aims to predict rainfall in Australia using various machine learnin
 ## Dataset
 The Australia Rainfall dataset contains historical rainfall data for different regions in Australia. The dataset includes features such as temperature, humidity, wind speed, and other meteorological parameters.
 
-## Dependencies
-Make sure you have the following dependencies installed:
-- Python 3
-- Pandas
-- NumPy
-- Scikit-learn
 
-You can install the dependencies using the following command:
-```bash
-pip install pandas numpy scikit-learn
